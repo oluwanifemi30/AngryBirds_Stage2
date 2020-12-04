@@ -1,2 +1,2 @@
-# AngryBirds_Stage2
-Use the mouse to hit the blocks down.
+# p5.play-boilerplate
+Boiler plate for p5.play
